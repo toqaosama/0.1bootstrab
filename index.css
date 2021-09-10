@@ -1,0 +1,239 @@
+.d-flex{
+    width: 70%;
+}
+.navbar-light .navbar-brand{
+    color: white !important;
+}
+.navbar-light .nav-link{
+    color: white !important;
+}
+ .child{
+    border: grey 5px;
+     background-color: grey;
+     color: black;
+     font-size: 35px;
+     width: 700px;
+     display:inline;
+ }
+ .all .child10 h1 {
+    position: absolute;
+    top:1650px;
+    left: 120px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child10 h2 {
+    position: absolute;
+    top: 1700px;
+    left: 120px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child10 h3 {
+    position: absolute;
+    top: 1750px;
+    left: 120px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child11 h1 {
+    position: absolute;
+    top: 1650px;
+    left: 430px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child11 h2 {
+    position: absolute;
+    top: 1700px;
+    left: 430px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child11 h3 {
+    position: absolute;
+    top: 1750px;
+    left: 430px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child11 h4 {
+    position: absolute;
+    top: 1800px;
+    left: 430px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child12 h1 {
+    position: absolute;
+    top: 1650px;
+    left: 780px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child12 h2 {
+    position: absolute;
+    top: 1700px;
+    left: 780px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child12 h3 {
+    position: absolute;
+    top: 1750px;
+    left: 780px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child12 h4 {
+    position: absolute;
+    top: 1800px;
+    left: 780px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child12 h5 {
+    position: absolute;
+    top: 1850px;
+    left: 780px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child12 h6 {
+    position: absolute;
+    top: 1900px;
+    left: 780px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child13 h1 {
+    position: absolute;
+    top: 1650px;
+    left: 1070px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child13 h2 {
+    position: absolute;
+    top: 1700px;
+    left: 1070px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child13 h3 {
+    position: absolute;
+    top: 1750px;
+    left: 1070px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child13 h4 {
+    position: absolute;
+    top: 1800px;
+    left: 1070px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child13 h5 {
+    position: absolute;
+    top: 1850px;
+    left: 1070px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child13 h6 {
+    position: absolute;
+    top: 1900px;
+    left: 1070px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child14 h1 {
+    position: absolute;
+    top: 1650px;
+    right: 520px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child14 h2 {
+    position: absolute;
+    top: 1700px;
+    right:450px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child14 h4 {
+    position: absolute;
+    top: 1750px;
+    right: 405px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child14 h5 {
+    position: absolute;
+    top: 1800px;
+    right: 480px;
+    font-size: 20px;
+    color: black;
+    opacity: 0.6;
+}
+
+.all .child6 {
+    position: absolute;
+    top: 1600px;
+    width: 1900px;
+    height: 500px;
+    background-color: rgb(209, 208, 208);
+
+
+}
+.all .child6 h1{
+    display: inline;
+    margin: 105px;
+    font-size: 20px;
+}
+
